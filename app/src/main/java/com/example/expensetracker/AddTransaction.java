@@ -101,7 +101,6 @@ public class AddTransaction extends AppCompatActivity {
                 }catch (Exception e){
 
                 }
-
             }
         });
     }
